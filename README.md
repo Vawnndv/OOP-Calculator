@@ -1,4 +1,4 @@
-# OOP-Calculator-
+# OOP-Calculator
 
 SEMINAR PROJECT
 ( THƯ VIỆN MFC)
